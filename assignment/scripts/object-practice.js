@@ -28,7 +28,7 @@ let fullName = {
   firstName: 'Asia',
   lastName:'Osman'
 } 
-console.log('My fullnames are: ',fullName);
+console.log('My fullnames are:',fullName);
 
 
 
@@ -36,7 +36,9 @@ console.log('My fullnames are: ',fullName);
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */ 
-
+console.log('This is my 1st Fav Food:',me.favThreeFoods[0]);
+let index = me.favThreeFoods.length-1;
+console.log('This is my last Fav Food:', me.favThreeFoods[index]);
 
 /* 4. Change a property of an existing object.
   - Console.log your current shoe count.
