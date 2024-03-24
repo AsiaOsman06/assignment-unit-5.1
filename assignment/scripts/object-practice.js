@@ -48,7 +48,7 @@ console.log('This is my last Fav Food:', me.favThreeFoods[index]);
 */
 console.log('This will be number of shoes i have for now:',me.shoeCount);
 me.shoeCount += 1;
-console.log('Updated ShoeCount:',me.shoeCount);
+console.log('Updated ShoeCounts:',me.shoeCount);
 
 
 
