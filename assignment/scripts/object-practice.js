@@ -46,7 +46,9 @@ console.log('This is my last Fav Food:', me.favThreeFoods[index]);
   - Set your object's shoeCount to be what it was plus 1
   - Console.log your updated shoe count. 
 */
-
+console.log('This will be number of shoes i have for now:',me.shoeCount);
+me.shoeCount += 1;
+console.log('Updated ShoeCount:',me.shoeCount);
 
 
 
